@@ -2,7 +2,9 @@
 
 ## Overview
 Built and configured a basic Local Area Network (LAN) using Cisco Packet Tracer.
+## Network Topology
 
+![Small Business LAN Topology](topology.png)
 ## Network Topology
 - 1 Cisco Catalyst 2960 switch
 - 4 end devices (PCs)
